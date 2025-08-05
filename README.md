@@ -59,9 +59,9 @@ The application provides a menu-driven interface for users to interact with the 
 
 ### Delete Song
 
-1. Select option 3 from the main menu.
-2. Enter the title of the song you want to delete.
-3. The song will be removed from the music library.
+- Select option 3 from the main menu.
+- Enter the title of the song you want to delete.
+- The song will be removed from the music library.
 
 ### Display All Songs
 
@@ -94,10 +94,10 @@ The application provides a menu-driven interface for users to interact with the 
 
 ### Play Song in Playlist
 
-1. Select option 9 from the main menu.
-2. Enter the name of the playlist you want to play.
-3. Enter the title of the song you want to play.
-4. The specified song will start playing.
+- Select option 9 from the main menu.
+- Enter the name of the playlist you want to play.
+- Enter the title of the song you want to play.
+- The specified song will start playing.
 
 ### Pause Song in Playlist
 
