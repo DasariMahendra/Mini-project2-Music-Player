@@ -1,4 +1,4 @@
-# Music Player Application - Java Console Application
+# 🎵 Music Player Application - Java Console Application
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -23,23 +23,22 @@
   - [Playlist](#playlist)
   - [Song](#song)
 
-## Introduction
+## 🎧 Introduction
 
 The Music Player Application is a console-based application that allows users to manage a music library and create playlists. Users can add, update, and delete songs, as well as create and manage playlists.
 
 ## Features
 
-- Add new songs to the music library
-- Update existing songs
-- Delete songs from the music library
-- Display all songs in the music library
-- Create new playlists
-- Add songs to existing playlists
-- Display all playlists
-- Display all songs in a specific playlist
-- Play, pause, and stop songs in a playlist
+- 🎶 Add new songs to the music library
+- 📝 Update or delete existing songs
+- 📄 View all songs in the music library
+- 📁 Create and manage multiple playlists
+- ➕ Add songs to playlists
+- 📂 Display songs in a playlist
+- ▶️ Simulate play, pause, and stop actions on songs
+- ❌ Exit the application
 
-## Usage
+## 🕹️ Usage
 
 The application provides a menu-driven interface for users to interact with the music player. Here's how you can use the different features:
 
