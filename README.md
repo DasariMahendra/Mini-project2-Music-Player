@@ -46,16 +46,16 @@ The application provides a menu-driven interface for users to interact with the 
 
 ### Add New Song
 
-1. Select option 1 from the main menu.
-2. Enter the song ID, title, artist, and duration.
-3. The song will be added to the music library.
+- Select option 1 from the main menu.
+- Enter the song ID, title, artist, and duration.
+- The song will be added to the music library.
 
 ### Update Existing Song
 
-1. Select option 2 from the main menu.
-2. Enter the title of the song you want to update.
-3. Enter the new song ID, title, artist, and duration.
-4. The song will be updated in the music library.
+- Select option 2 from the main menu.
+- Enter the title of the song you want to update.
+- Enter the new song ID, title, artist, and duration.
+- The song will be updated in the music library.
 
 ### Delete Song
 
@@ -65,32 +65,32 @@ The application provides a menu-driven interface for users to interact with the 
 
 ### Display All Songs
 
-1. Select option 4 from the main menu.
-2. All songs in the music library will be displayed.
+- Select option 4 from the main menu.
+- All songs in the music library will be displayed.
 
 ### Create New Playlist
 
-1. Select option 5 from the main menu.
-2. Enter the playlist ID and name.
-3. The new playlist will be created.
+- Select option 5 from the main menu.
+- Enter the playlist ID and name.
+- The new playlist will be created.
 
 ### Add Song to Playlist
 
-1. Select option 6 from the main menu.
-2. Enter the name of the playlist you want to add the song to.
-3. Enter the title of the song you want to add.
-4. The song will be added to the specified playlist.
+- Select option 6 from the main menu.
+- Enter the name of the playlist you want to add the song to.
+- Enter the title of the song you want to add.
+- The song will be added to the specified playlist.
 
 ### Display All Playlists
 
-1. Select option 7 from the main menu.
-2. All playlists will be displayed.
+- Select option 7 from the main menu.
+- All playlists will be displayed.
 
 ### Display Songs in Playlist
 
-1. Select option 8 from the main menu.
-2. Enter the name of the playlist you want to display.
-3. All songs in the specified playlist will be displayed.
+- Select option 8 from the main menu.
+- Enter the name of the playlist you want to display.
+- All songs in the specified playlist will be displayed.
 
 ### Play Song in Playlist
 
@@ -101,22 +101,22 @@ The application provides a menu-driven interface for users to interact with the 
 
 ### Pause Song in Playlist
 
-1. Select option 10 from the main menu.
-2. Enter the name of the playlist you want to pause.
-3. Enter the title of the song you want to pause.
-4. The specified song will be paused.
+- Select option 10 from the main menu.
+- Enter the name of the playlist you want to pause.
+- Enter the title of the song you want to pause.
+- The specified song will be paused.
 
 ### Stop Song in Playlist
 
-1. Select option 11 from the main menu.
-2. Enter the name of the playlist you want to stop.
-3. Enter the title of the song you want to stop.
-4. The specified song will be stopped.
+- Select option 11 from the main menu.
+- Enter the name of the playlist you want to stop.
+- Enter the title of the song you want to stop.
+- The specified song will be stopped.
 
 ### Exit
 
-1. Select option 12 from the main menu.
-2. The application will exit.
+- Select option 12 from the main menu.
+- The application will exit.
 
 ## Classes and Interfaces
 
