@@ -1,9 +1,6 @@
 # 🎵 Music Player Application - Java Console Application
 
----
-
 ## Java Mini Project | FLM
-
 ---
 
 ## Table of Contents
